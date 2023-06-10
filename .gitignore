@@ -1,0 +1,16 @@
+/Results
+
+/Data/cleaned
+
+/Data/Raw/diginetica/train-item-views.csv
+/Data/Raw/yoochoose/yoochoose-buys.dat
+/Data/Raw/yoochoose/yoochoose-clicks.dat
+/model/__pycache__/*.pyc
+/model/__pycache__/*.pyc
+/model/__pycache__/*.pyc
+/model/__pycache__/*.pyc
+/tools/__pycache__/*.pyc
+/tools/__pycache__/*.pyc
+/tools/__pycache__/*.pyc
+/tools/__pycache__/*.pyc
+/tools/__pycache__/*.pyc
