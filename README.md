@@ -1,6 +1,6 @@
 # STAR
 
-- PyTorch implementation of the algorithm of [A Session-Based Time-Aware Recommender System](https://arxiv.org/abs/2211.06394). 
+- PyTorch implementation of the algorithm of [A Session-Based Time-Aware Recommender System](https://doi.org/10.1016/j.neucom.2023.127104). 
 
 ## Requirements
 
